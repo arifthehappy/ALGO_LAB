@@ -1,15 +1,17 @@
-To run use ./make.sh
+# To run use ./make.sh
 
-# Quick Sort
+Output.jpeg contains output of all programs.
 
-Array -> quickSort.txt
+## Quick Sort
+
+Array -> quickSort.txt;
 Graph -> quickSort.png
 
-# Randomized Quick Sort
+## Randomized Quick Sort
 
-Array -> randomQuickSort.txt
+Array -> randomQuickSort.txt;
 Graph -> randomizedQuickSort.png
 
-# MaxNumbersInTenSec
+## MaxNumbersInTenSec
 
 Graph -> maxNumberInTenSec.png
